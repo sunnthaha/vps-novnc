@@ -1,9 +1,0 @@
-=======================================================
-noVNC INFO - DucThang x TrueHieu Edition
-=======================================================
-URL       : https://corrected-joins-info-third.trycloudflare.com/vnc.html
-Password  : hieudz
-Host      : trycloudflare
-Protocol  : noVNC over Cloudflared
-Created   : 2026-05-17 05:04:58
-=======================================================
