@@ -1,9 +1,9 @@
 =======================================================
 noVNC INFO - DucThang x TrueHieu Edition
 =======================================================
-URL       : https://waiting-pointed-wellness-profits.trycloudflare.com/vnc.html
+URL       : https://drug-router-pharmaceuticals-camel.trycloudflare.com/vnc.html
 Password  : hieudz
 Host      : trycloudflare
 Protocol  : noVNC over Cloudflared
-Created   : 2026-05-17 21:00:37
+Created   : 2026-05-18 04:04:31
 =======================================================
