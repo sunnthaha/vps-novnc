@@ -1,9 +1,0 @@
-=======================================================
-noVNC INFO - DucThang x TrueHieu Edition
-=======================================================
-URL       : https://boxing-runtime-tactics-concerned.trycloudflare.com/vnc.html
-Password  : hieudz
-Host      : trycloudflare
-Protocol  : noVNC over Cloudflared
-Created   : 2026-05-23 07:36:30
-=======================================================
