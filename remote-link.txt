@@ -1,9 +1,9 @@
 =======================================================
 noVNC INFO - DucThang x TrueHieu Edition
 =======================================================
-URL       : https://examined-winner-hair-evans.trycloudflare.com/vnc.html
+URL       : https://attraction-strike-really-cpu.trycloudflare.com/vnc.html
 Password  : hieudz
 Host      : trycloudflare
 Protocol  : noVNC over Cloudflared
-Created   : 2026-05-28 18:16:35
+Created   : 2026-05-28 22:01:10
 =======================================================
