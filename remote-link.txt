@@ -1,9 +1,9 @@
 =======================================================
 noVNC INFO - DucThang x TrueHieu Edition
 =======================================================
-URL       : https://particles-circles-panels-aus.trycloudflare.com/vnc.html
+URL       : https://manufacturing-rich-measurement-cabin.trycloudflare.com/vnc.html
 Password  : hieudz
 Host      : trycloudflare
 Protocol  : noVNC over Cloudflared
-Created   : 2026-05-28 08:47:17
+Created   : 2026-05-28 13:58:01
 =======================================================
