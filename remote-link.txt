@@ -1,9 +1,9 @@
 =======================================================
 noVNC INFO - DucThang x TrueHieu Edition
 =======================================================
-URL       : https://express-vocational-once-pop.trycloudflare.com/vnc.html
+URL       : https://route-medicine-analyzed-lou.trycloudflare.com/vnc.html
 Password  : hieudz
 Host      : trycloudflare
 Protocol  : noVNC over Cloudflared
-Created   : 2026-05-29 08:45:44
+Created   : 2026-05-29 12:54:20
 =======================================================
