@@ -1,9 +1,9 @@
 =======================================================
 noVNC INFO - DucThang x TrueHieu Edition
 =======================================================
-URL       : https://periodically-usr-busy-during.trycloudflare.com/vnc.html
+URL       : https://society-generates-induced-cult.trycloudflare.com/vnc.html
 Password  : hieudz
 Host      : trycloudflare
 Protocol  : noVNC over Cloudflared
-Created   : 2026-05-31 08:19:11
+Created   : 2026-05-31 11:45:10
 =======================================================
