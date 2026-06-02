@@ -1,9 +1,9 @@
 =======================================================
 noVNC INFO - DucThang x TrueHieu Edition
 =======================================================
-URL       : https://stayed-negotiations-connected-scanned.trycloudflare.com/vnc.html
+URL       : https://indexed-day-generator-chance.trycloudflare.com/vnc.html
 Password  : hieudz
 Host      : trycloudflare
 Protocol  : noVNC over Cloudflared
-Created   : 2026-06-02 18:45:36
+Created   : 2026-06-02 22:27:22
 =======================================================
