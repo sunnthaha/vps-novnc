@@ -1,9 +1,9 @@
 =======================================================
 noVNC INFO - DucThang x TrueHieu Edition
 =======================================================
-URL       : https://essence-networking-superb-mph.trycloudflare.com/vnc.html
+URL       : https://generates-seed-const-taste.trycloudflare.com/vnc.html
 Password  : hieudz
 Host      : trycloudflare
 Protocol  : noVNC over Cloudflared
-Created   : 2026-06-04 12:49:04
+Created   : 2026-06-04 17:49:43
 =======================================================
