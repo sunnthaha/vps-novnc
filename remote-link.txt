@@ -1,9 +1,9 @@
 =======================================================
 noVNC INFO - DucThang x TrueHieu Edition
 =======================================================
-URL       : https://generates-seed-const-taste.trycloudflare.com/vnc.html
+URL       : https://unto-cents-sims-lancaster.trycloudflare.com/vnc.html
 Password  : hieudz
 Host      : trycloudflare
 Protocol  : noVNC over Cloudflared
-Created   : 2026-06-04 17:49:43
+Created   : 2026-06-04 21:46:08
 =======================================================
