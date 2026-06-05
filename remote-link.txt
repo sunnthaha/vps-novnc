@@ -1,9 +1,9 @@
 =======================================================
 noVNC INFO - DucThang x TrueHieu Edition
 =======================================================
-URL       : https://unto-cents-sims-lancaster.trycloudflare.com/vnc.html
+URL       : https://yet-detection-world-management.trycloudflare.com/vnc.html
 Password  : hieudz
 Host      : trycloudflare
 Protocol  : noVNC over Cloudflared
-Created   : 2026-06-04 21:46:08
+Created   : 2026-06-05 04:09:01
 =======================================================
