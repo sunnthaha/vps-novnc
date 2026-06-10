@@ -1,9 +1,9 @@
 =======================================================
 noVNC INFO - DucThang x TrueHieu Edition
 =======================================================
-URL       : https://players-easy-pork-pub.trycloudflare.com/vnc.html
+URL       : https://degree-axis-corporation-sql.trycloudflare.com/vnc.html
 Password  : hieudz
 Host      : trycloudflare
 Protocol  : noVNC over Cloudflared
-Created   : 2026-06-10 08:55:16
+Created   : 2026-06-10 13:38:15
 =======================================================
