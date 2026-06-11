@@ -1,9 +1,9 @@
 =======================================================
 noVNC INFO - DucThang x TrueHieu Edition
 =======================================================
-URL       : https://introductory-receptors-rolled-foreign.trycloudflare.com/vnc.html
+URL       : https://empty-aims-indirect-achieve.trycloudflare.com/vnc.html
 Password  : hieudz
 Host      : trycloudflare
 Protocol  : noVNC over Cloudflared
-Created   : 2026-06-11 09:16:59
+Created   : 2026-06-11 14:05:27
 =======================================================
