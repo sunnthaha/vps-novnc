@@ -1,9 +1,9 @@
 =======================================================
 noVNC INFO - DucThang x TrueHieu Edition
 =======================================================
-URL       : https://articles-compared-commit-language.trycloudflare.com/vnc.html
+URL       : https://tall-south-gray-thought.trycloudflare.com/vnc.html
 Password  : hieudz
 Host      : trycloudflare
 Protocol  : noVNC over Cloudflared
-Created   : 2026-06-13 04:10:20
+Created   : 2026-06-13 08:26:23
 =======================================================
