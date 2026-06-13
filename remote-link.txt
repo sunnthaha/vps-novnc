@@ -1,9 +1,9 @@
 =======================================================
 noVNC INFO - DucThang x TrueHieu Edition
 =======================================================
-URL       : https://thinkpad-california-doubt-commodity.trycloudflare.com/vnc.html
+URL       : https://generally-frank-additionally-expanded.trycloudflare.com/vnc.html
 Password  : hieudz
 Host      : trycloudflare
 Protocol  : noVNC over Cloudflared
-Created   : 2026-06-13 16:19:05
+Created   : 2026-06-13 21:23:01
 =======================================================
