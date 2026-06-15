@@ -1,9 +1,9 @@
 =======================================================
 noVNC INFO - DucThang x TrueHieu Edition
 =======================================================
-URL       : https://unit-alpha-zoning-analyst.trycloudflare.com/vnc.html
+URL       : https://syntax-inch-health-tired.trycloudflare.com/vnc.html
 Password  : hieudz
 Host      : trycloudflare
 Protocol  : noVNC over Cloudflared
-Created   : 2026-06-15 04:51:26
+Created   : 2026-06-15 10:58:56
 =======================================================
