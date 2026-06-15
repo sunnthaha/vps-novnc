@@ -1,9 +1,9 @@
 =======================================================
 noVNC INFO - DucThang x TrueHieu Edition
 =======================================================
-URL       : https://syntax-inch-health-tired.trycloudflare.com/vnc.html
+URL       : https://remain-pharmaceutical-photographs-holder.trycloudflare.com/vnc.html
 Password  : hieudz
 Host      : trycloudflare
 Protocol  : noVNC over Cloudflared
-Created   : 2026-06-15 10:58:56
+Created   : 2026-06-15 19:08:54
 =======================================================
