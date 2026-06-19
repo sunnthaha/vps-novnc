@@ -1,9 +1,9 @@
 =======================================================
 noVNC INFO - DucThang x TrueHieu Edition
 =======================================================
-URL       : https://recorder-allan-aims-selecting.trycloudflare.com/vnc.html
+URL       : https://alpine-univ-estimated-usb.trycloudflare.com/vnc.html
 Password  : hieudz
 Host      : trycloudflare
 Protocol  : noVNC over Cloudflared
-Created   : 2026-06-18 22:16:48
+Created   : 2026-06-19 04:49:48
 =======================================================
