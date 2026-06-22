@@ -1,9 +1,9 @@
 =======================================================
 noVNC INFO - DucThang x TrueHieu Edition
 =======================================================
-URL       : https://slowly-achievements-investigated-unknown.trycloudflare.com/vnc.html
+URL       : https://ride-rising-epa-remembered.trycloudflare.com/vnc.html
 Password  : hieudz
 Host      : trycloudflare
 Protocol  : noVNC over Cloudflared
-Created   : 2026-06-22 10:45:04
+Created   : 2026-06-22 18:52:01
 =======================================================
