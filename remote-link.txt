@@ -1,9 +1,9 @@
 =======================================================
 noVNC INFO - DucThang x TrueHieu Edition
 =======================================================
-URL       : https://observer-councils-hostel-wow.trycloudflare.com/vnc.html
+URL       : https://flu-origin-eyes-lone.trycloudflare.com/vnc.html
 Password  : hieudz
 Host      : trycloudflare
 Protocol  : noVNC over Cloudflared
-Created   : 2026-06-27 07:54:29
+Created   : 2026-06-27 11:39:55
 =======================================================
