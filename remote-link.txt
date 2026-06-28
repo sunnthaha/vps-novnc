@@ -1,9 +1,9 @@
 =======================================================
 noVNC INFO - DucThang x TrueHieu Edition
 =======================================================
-URL       : https://fairy-blades-kissing-audit.trycloudflare.com/vnc.html
+URL       : https://generate-perception-rows-technical.trycloudflare.com/vnc.html
 Password  : hieudz
 Host      : trycloudflare
 Protocol  : noVNC over Cloudflared
-Created   : 2026-06-28 04:12:14
+Created   : 2026-06-28 08:26:38
 =======================================================
