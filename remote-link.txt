@@ -1,9 +1,9 @@
 =======================================================
 noVNC INFO - DucThang x TrueHieu Edition
 =======================================================
-URL       : https://compaq-relevant-payroll-preferred.trycloudflare.com/vnc.html
+URL       : https://nato-birds-processing-excited.trycloudflare.com/vnc.html
 Password  : hieudz
 Host      : trycloudflare
 Protocol  : noVNC over Cloudflared
-Created   : 2026-06-29 14:10:39
+Created   : 2026-06-29 17:42:59
 =======================================================
