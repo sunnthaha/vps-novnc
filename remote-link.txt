@@ -1,9 +1,9 @@
 =======================================================
 noVNC INFO - DucThang x TrueHieu Edition
 =======================================================
-URL       : https://challenges-literary-snap-confidence.trycloudflare.com/vnc.html
+URL       : https://grand-trucks-adopt-docs.trycloudflare.com/vnc.html
 Password  : hieudz
 Host      : trycloudflare
 Protocol  : noVNC over Cloudflared
-Created   : 2026-07-03 08:15:07
+Created   : 2026-07-03 12:13:55
 =======================================================
