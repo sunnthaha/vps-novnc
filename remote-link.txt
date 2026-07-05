@@ -1,9 +1,9 @@
 =======================================================
 noVNC INFO - DucThang x TrueHieu Edition
 =======================================================
-URL       : https://concerned-laughing-isbn-routes.trycloudflare.com/vnc.html
+URL       : https://assessments-brand-maybe-cam.trycloudflare.com/vnc.html
 Password  : hieudz
 Host      : trycloudflare
 Protocol  : noVNC over Cloudflared
-Created   : 2026-07-05 08:06:58
+Created   : 2026-07-05 11:40:31
 =======================================================
