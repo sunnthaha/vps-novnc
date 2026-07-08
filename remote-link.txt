@@ -1,9 +1,9 @@
 =======================================================
 noVNC INFO - DucThang x TrueHieu Edition
 =======================================================
-URL       : https://truth-anderson-association-conf.trycloudflare.com/vnc.html
+URL       : https://generic-weather-knowledgestorm-playstation.trycloudflare.com/vnc.html
 Password  : hieudz
 Host      : trycloudflare
 Protocol  : noVNC over Cloudflared
-Created   : 2026-07-08 11:51:07
+Created   : 2026-07-08 16:44:42
 =======================================================
