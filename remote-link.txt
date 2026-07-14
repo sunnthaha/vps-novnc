@@ -1,9 +1,9 @@
 =======================================================
 noVNC INFO - DucThang x TrueHieu Edition
 =======================================================
-URL       : https://pirates-examining-fuji-proc.trycloudflare.com/vnc.html
+URL       : https://engineer-precisely-trout-whereas.trycloudflare.com/vnc.html
 Password  : hieudz
 Host      : trycloudflare
 Protocol  : noVNC over Cloudflared
-Created   : 2026-07-14 07:14:14
+Created   : 2026-07-14 11:29:30
 =======================================================
