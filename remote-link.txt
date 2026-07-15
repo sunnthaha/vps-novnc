@@ -1,9 +1,9 @@
 =======================================================
 noVNC INFO - DucThang x TrueHieu Edition
 =======================================================
-URL       : https://approx-tasks-edition-remedies.trycloudflare.com/vnc.html
+URL       : https://fur-rarely-dogs-place.trycloudflare.com/vnc.html
 Password  : hieudz
 Host      : trycloudflare
 Protocol  : noVNC over Cloudflared
-Created   : 2026-07-14 21:05:47
+Created   : 2026-07-15 02:46:13
 =======================================================
