@@ -1,9 +1,9 @@
 =======================================================
 noVNC INFO - DucThang x TrueHieu Edition
 =======================================================
-URL       : https://maximum-supports-tells-ready.trycloudflare.com/vnc.html
+URL       : https://med-supreme-size-scientist.trycloudflare.com/vnc.html
 Password  : hieudz
 Host      : trycloudflare
 Protocol  : noVNC over Cloudflared
-Created   : 2026-07-21 21:16:26
+Created   : 2026-07-22 02:56:16
 =======================================================
