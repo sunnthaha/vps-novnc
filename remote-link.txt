@@ -1,9 +1,9 @@
 =======================================================
 noVNC INFO - DucThang x TrueHieu Edition
 =======================================================
-URL       : https://bowling-ended-food-apparel.trycloudflare.com/vnc.html
+URL       : https://confidence-wonder-want-cure.trycloudflare.com/vnc.html
 Password  : hieudz
 Host      : trycloudflare
 Protocol  : noVNC over Cloudflared
-Created   : 2026-07-24 16:48:22
+Created   : 2026-07-24 21:09:43
 =======================================================
