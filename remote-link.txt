@@ -1,9 +1,9 @@
 =======================================================
 noVNC INFO - DucThang x TrueHieu Edition
 =======================================================
-URL       : https://surgery-wall-monitor-calculations.trycloudflare.com/vnc.html
+URL       : https://discounts-cloth-truly-jets.trycloudflare.com/vnc.html
 Password  : hieudz
 Host      : trycloudflare
 Protocol  : noVNC over Cloudflared
-Created   : 2026-07-28 16:45:06
+Created   : 2026-07-28 21:14:19
 =======================================================
