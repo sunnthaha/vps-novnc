@@ -1,9 +1,9 @@
 =======================================================
 noVNC INFO - DucThang x TrueHieu Edition
 =======================================================
-URL       : https://mag-carrier-edges-configure.trycloudflare.com/vnc.html
+URL       : https://bloom-picks-pretty-map.trycloudflare.com/vnc.html
 Password  : hieudz
 Host      : trycloudflare
 Protocol  : noVNC over Cloudflared
-Created   : 2026-08-01 11:21:35
+Created   : 2026-08-01 16:05:44
 =======================================================
