@@ -1,9 +1,9 @@
 =======================================================
 noVNC INFO - DucThang x TrueHieu Edition
 =======================================================
-URL       : https://canal-mens-infringement-approval.trycloudflare.com/vnc.html
+URL       : https://conventions-acceptable-element-miami.trycloudflare.com/vnc.html
 Password  : hieudz
 Host      : trycloudflare
 Protocol  : noVNC over Cloudflared
-Created   : 2026-08-02 07:35:52
+Created   : 2026-08-02 11:21:13
 =======================================================
