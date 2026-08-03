@@ -1,9 +1,9 @@
 =======================================================
 noVNC INFO - DucThang x TrueHieu Edition
 =======================================================
-URL       : https://while-encouraging-depends-synthetic.trycloudflare.com/vnc.html
+URL       : https://bold-app-biological-offices.trycloudflare.com/vnc.html
 Password  : hieudz
 Host      : trycloudflare
 Protocol  : noVNC over Cloudflared
-Created   : 2026-08-02 21:01:39
+Created   : 2026-08-03 03:21:44
 =======================================================
