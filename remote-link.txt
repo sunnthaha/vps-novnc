@@ -1,9 +1,9 @@
 =======================================================
 noVNC INFO - DucThang x TrueHieu Edition
 =======================================================
-URL       : https://affiliated-purpose-widespread-prague.trycloudflare.com/vnc.html
+URL       : https://primary-differently-james-periodic.trycloudflare.com/vnc.html
 Password  : hieudz
 Host      : trycloudflare
 Protocol  : noVNC over Cloudflared
-Created   : 2026-08-12 02:13:04
+Created   : 2026-08-12 06:19:26
 =======================================================
