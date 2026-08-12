@@ -1,9 +1,9 @@
 =======================================================
 noVNC INFO - DucThang x TrueHieu Edition
 =======================================================
-URL       : https://erp-finishing-bacon-logo.trycloudflare.com/vnc.html
+URL       : https://affiliated-purpose-widespread-prague.trycloudflare.com/vnc.html
 Password  : hieudz
 Host      : trycloudflare
 Protocol  : noVNC over Cloudflared
-Created   : 2026-08-11 20:52:46
+Created   : 2026-08-12 02:13:04
 =======================================================
