@@ -1,9 +1,9 @@
 =======================================================
 noVNC INFO - DucThang x TrueHieu Edition
 =======================================================
-URL       : https://carriers-construction-gates-prevent.trycloudflare.com/vnc.html
+URL       : https://beta-counsel-acre-bedrooms.trycloudflare.com/vnc.html
 Password  : hieudz
 Host      : trycloudflare
 Protocol  : noVNC over Cloudflared
-Created   : 2026-08-13 16:03:44
+Created   : 2026-08-13 20:50:41
 =======================================================
