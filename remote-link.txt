@@ -1,9 +1,9 @@
 =======================================================
 noVNC INFO - DucThang x TrueHieu Edition
 =======================================================
-URL       : https://proposal-vegetation-doll-easy.trycloudflare.com/vnc.html
+URL       : https://hawaiian-was-identity-smile.trycloudflare.com/vnc.html
 Password  : hieudz
 Host      : trycloudflare
 Protocol  : noVNC over Cloudflared
-Created   : 2026-08-16 05:33:18
+Created   : 2026-08-16 10:28:35
 =======================================================
