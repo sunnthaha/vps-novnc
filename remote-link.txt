@@ -1,9 +1,9 @@
 =======================================================
 noVNC INFO - DucThang x TrueHieu Edition
 =======================================================
-URL       : https://section-consequences-journalism-supplemental.trycloudflare.com/vnc.html
+URL       : https://bibliography-paper-alias-transformation.trycloudflare.com/vnc.html
 Password  : hieudz
 Host      : trycloudflare
 Protocol  : noVNC over Cloudflared
-Created   : 2026-08-20 10:36:20
+Created   : 2026-08-20 15:39:59
 =======================================================
