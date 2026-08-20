@@ -1,9 +1,9 @@
 =======================================================
 noVNC INFO - DucThang x TrueHieu Edition
 =======================================================
-URL       : https://adsl-roads-describe-lights.trycloudflare.com/vnc.html
+URL       : https://psp-fairly-minimize-newer.trycloudflare.com/vnc.html
 Password  : hieudz
 Host      : trycloudflare
 Protocol  : noVNC over Cloudflared
-Created   : 2026-08-19 20:34:24
+Created   : 2026-08-20 01:25:31
 =======================================================
