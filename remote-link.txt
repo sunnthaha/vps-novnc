@@ -1,9 +1,9 @@
 =======================================================
 noVNC INFO - DucThang x TrueHieu Edition
 =======================================================
-URL       : https://roof-erik-computing-districts.trycloudflare.com/vnc.html
+URL       : https://straight-pilot-jerusalem-newcastle.trycloudflare.com/vnc.html
 Password  : hieudz
 Host      : trycloudflare
 Protocol  : noVNC over Cloudflared
-Created   : 2026-08-21 15:38:53
+Created   : 2026-08-21 20:30:58
 =======================================================
