@@ -1,9 +1,9 @@
 =======================================================
 noVNC INFO - DucThang x TrueHieu Edition
 =======================================================
-URL       : https://emily-cover-site-cms.trycloudflare.com/vnc.html
+URL       : https://opposite-asylum-place-hundred.trycloudflare.com/vnc.html
 Password  : hieudz
 Host      : trycloudflare
 Protocol  : noVNC over Cloudflared
-Created   : 2026-08-25 10:38:25
+Created   : 2026-08-25 15:48:49
 =======================================================
