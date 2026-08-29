@@ -1,9 +1,9 @@
 =======================================================
 noVNC INFO - DucThang x TrueHieu Edition
 =======================================================
-URL       : https://camera-arms-strict-compiled.trycloudflare.com/vnc.html
+URL       : https://char-selection-registered-img.trycloudflare.com/vnc.html
 Password  : hieudz
 Host      : trycloudflare
 Protocol  : noVNC over Cloudflared
-Created   : 2026-08-29 06:25:48
+Created   : 2026-08-29 15:00:18
 =======================================================
