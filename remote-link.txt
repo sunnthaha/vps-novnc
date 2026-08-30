@@ -1,9 +1,9 @@
 =======================================================
 noVNC INFO - DucThang x TrueHieu Edition
 =======================================================
-URL       : https://find-argue-block-wage.trycloudflare.com/vnc.html
+URL       : https://variety-motivation-moss-cameras.trycloudflare.com/vnc.html
 Password  : hieudz
 Host      : trycloudflare
 Protocol  : noVNC over Cloudflared
-Created   : 2026-08-30 04:31:44
+Created   : 2026-08-30 10:23:38
 =======================================================
