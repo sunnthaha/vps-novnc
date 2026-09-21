@@ -1,9 +1,9 @@
 =======================================================
 noVNC INFO - DucThang x TrueHieu Edition
 =======================================================
-URL       : https://background-symbols-disks-accepts.trycloudflare.com/vnc.html
+URL       : https://traditions-jersey-soc-remedies.trycloudflare.com/vnc.html
 Password  : hieudz
 Host      : trycloudflare
 Protocol  : noVNC over Cloudflared
-Created   : 2026-09-21 19:56:19
+Created   : 2026-09-21 23:06:50
 =======================================================
