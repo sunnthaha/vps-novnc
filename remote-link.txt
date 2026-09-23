@@ -1,9 +1,9 @@
 =======================================================
 noVNC INFO - DucThang x TrueHieu Edition
 =======================================================
-URL       : https://corner-climb-backgrounds-bingo.trycloudflare.com/vnc.html
+URL       : https://francisco-arms-deaths-winston.trycloudflare.com/vnc.html
 Password  : hieudz
 Host      : trycloudflare
 Protocol  : noVNC over Cloudflared
-Created   : 2026-09-22 22:51:52
+Created   : 2026-09-23 04:05:25
 =======================================================
