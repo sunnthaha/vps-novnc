@@ -1,9 +1,9 @@
 =======================================================
 noVNC INFO - DucThang x TrueHieu Edition
 =======================================================
-URL       : https://defensive-where-sends-tickets.trycloudflare.com/vnc.html
+URL       : https://comfort-idle-license-thick.trycloudflare.com/vnc.html
 Password  : hieudz
 Host      : trycloudflare
 Protocol  : noVNC over Cloudflared
-Created   : 2026-09-28 11:34:29
+Created   : 2026-09-28 21:09:52
 =======================================================
