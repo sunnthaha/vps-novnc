@@ -1,9 +1,9 @@
 =======================================================
 noVNC INFO - DucThang x TrueHieu Edition
 =======================================================
-URL       : https://hiv-broke-everyone-accepted.trycloudflare.com/vnc.html
+URL       : https://baths-watts-stays-collaboration.trycloudflare.com/vnc.html
 Password  : hieudz
 Host      : trycloudflare
 Protocol  : noVNC over Cloudflared
-Created   : 2026-10-12 05:08:00
+Created   : 2026-10-12 19:43:17
 =======================================================
