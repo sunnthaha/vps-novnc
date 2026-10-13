@@ -1,9 +1,9 @@
 =======================================================
 noVNC INFO - DucThang x TrueHieu Edition
 =======================================================
-URL       : https://baths-watts-stays-collaboration.trycloudflare.com/vnc.html
+URL       : https://char-coating-weighted-sides.trycloudflare.com/vnc.html
 Password  : hieudz
 Host      : trycloudflare
 Protocol  : noVNC over Cloudflared
-Created   : 2026-10-12 19:43:17
+Created   : 2026-10-13 01:55:51
 =======================================================
