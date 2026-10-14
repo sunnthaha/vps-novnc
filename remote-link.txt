@@ -1,9 +1,9 @@
 =======================================================
 noVNC INFO - DucThang x TrueHieu Edition
 =======================================================
-URL       : https://observe-certain-concord-terminal.trycloudflare.com/vnc.html
+URL       : https://construction-chosen-pipes-format.trycloudflare.com/vnc.html
 Password  : hieudz
 Host      : trycloudflare
 Protocol  : noVNC over Cloudflared
-Created   : 2026-10-13 20:35:05
+Created   : 2026-10-14 04:10:33
 =======================================================
