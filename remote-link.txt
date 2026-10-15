@@ -1,9 +1,9 @@
 =======================================================
 noVNC INFO - DucThang x TrueHieu Edition
 =======================================================
-URL       : https://his-bouquet-member-analyzed.trycloudflare.com/vnc.html
+URL       : https://amd-attitudes-occur-tests.trycloudflare.com/vnc.html
 Password  : hieudz
 Host      : trycloudflare
 Protocol  : noVNC over Cloudflared
-Created   : 2026-10-15 19:00:21
+Created   : 2026-10-15 22:59:20
 =======================================================
