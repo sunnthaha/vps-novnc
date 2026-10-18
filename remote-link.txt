@@ -1,9 +1,9 @@
 =======================================================
 noVNC INFO - DucThang x TrueHieu Edition
 =======================================================
-URL       : https://niagara-refined-refresh-existing.trycloudflare.com/vnc.html
+URL       : https://careers-plot-rome-tcp.trycloudflare.com/vnc.html
 Password  : hieudz
 Host      : trycloudflare
 Protocol  : noVNC over Cloudflared
-Created   : 2026-10-17 22:05:51
+Created   : 2026-10-18 03:50:29
 =======================================================
