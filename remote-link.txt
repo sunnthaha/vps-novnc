@@ -1,9 +1,9 @@
 =======================================================
 noVNC INFO - DucThang x TrueHieu Edition
 =======================================================
-URL       : https://analog-give-submitted-teaching.trycloudflare.com/vnc.html
+URL       : https://practitioner-reached-interesting-crest.trycloudflare.com/vnc.html
 Password  : hieudz
 Host      : trycloudflare
 Protocol  : noVNC over Cloudflared
-Created   : 2026-10-18 09:25:27
+Created   : 2026-10-18 13:53:16
 =======================================================
