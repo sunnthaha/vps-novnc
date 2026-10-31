@@ -1,9 +1,9 @@
 =======================================================
 noVNC INFO - DucThang x TrueHieu Edition
 =======================================================
-URL       : https://pays-incidents-identify-diversity.trycloudflare.com/vnc.html
+URL       : https://lake-verse-arab-reggae.trycloudflare.com/vnc.html
 Password  : hieudz
 Host      : trycloudflare
 Protocol  : noVNC over Cloudflared
-Created   : 2026-10-31 19:11:27
+Created   : 2026-10-31 23:12:31
 =======================================================
