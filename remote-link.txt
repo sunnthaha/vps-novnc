@@ -1,9 +1,9 @@
 =======================================================
 noVNC INFO - DucThang x TrueHieu Edition
 =======================================================
-URL       : https://motorola-soonest-background-lenses.trycloudflare.com/vnc.html
+URL       : https://javascript-efforts-outlets-teenage.trycloudflare.com/vnc.html
 Password  : hieudz
 Host      : trycloudflare
 Protocol  : noVNC over Cloudflared
-Created   : 2026-11-07 16:12:55
+Created   : 2026-11-07 23:32:11
 =======================================================
