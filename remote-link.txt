@@ -1,9 +1,9 @@
 =======================================================
 noVNC INFO - DucThang x TrueHieu Edition
 =======================================================
-URL       : https://define-halifax-allow-deleted.trycloudflare.com/vnc.html
+URL       : https://evaluated-hands-companion-zope.trycloudflare.com/vnc.html
 Password  : hieudz
 Host      : trycloudflare
 Protocol  : noVNC over Cloudflared
-Created   : 2026-11-09 05:25:30
+Created   : 2026-11-09 20:33:24
 =======================================================
