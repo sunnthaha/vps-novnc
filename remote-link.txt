@@ -1,9 +1,9 @@
 =======================================================
 noVNC INFO - DucThang x TrueHieu Edition
 =======================================================
-URL       : https://shame-corporation-increases-sat.trycloudflare.com/vnc.html
+URL       : https://define-halifax-allow-deleted.trycloudflare.com/vnc.html
 Password  : hieudz
 Host      : trycloudflare
 Protocol  : noVNC over Cloudflared
-Created   : 2026-11-08 23:31:39
+Created   : 2026-11-09 05:25:30
 =======================================================
