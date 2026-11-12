@@ -1,1 +1,9 @@
-TUNNEL_FAILED_20261112_064310
+=======================================================
+noVNC INFO - DucThang x TrueHieu Edition
+=======================================================
+URL       : https://two-produce-deliver-jeffrey.trycloudflare.com/vnc.html
+Password  : hieudz
+Host      : trycloudflare
+Protocol  : noVNC over Cloudflared
+Created   : 2026-11-12 18:01:03
+=======================================================
