@@ -1,9 +1,9 @@
 =======================================================
 noVNC INFO - DucThang x TrueHieu Edition
 =======================================================
-URL       : https://diffs-return-occasions-locale.trycloudflare.com/vnc.html
+URL       : https://wizard-creates-flush-hardwood.trycloudflare.com/vnc.html
 Password  : hieudz
 Host      : trycloudflare
 Protocol  : noVNC over Cloudflared
-Created   : 2026-11-13 12:56:53
+Created   : 2026-11-13 21:18:23
 =======================================================
