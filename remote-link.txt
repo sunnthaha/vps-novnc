@@ -1,9 +1,9 @@
 =======================================================
 noVNC INFO - DucThang x TrueHieu Edition
 =======================================================
-URL       : https://wizard-creates-flush-hardwood.trycloudflare.com/vnc.html
+URL       : https://evaluated-paul-psi-nylon.trycloudflare.com/vnc.html
 Password  : hieudz
 Host      : trycloudflare
 Protocol  : noVNC over Cloudflared
-Created   : 2026-11-13 21:18:23
+Created   : 2026-11-14 05:38:15
 =======================================================
