@@ -1,9 +1,9 @@
 =======================================================
 noVNC INFO - DucThang x TrueHieu Edition
 =======================================================
-URL       : https://declare-utility-applicable-path.trycloudflare.com/vnc.html
+URL       : https://throat-anthropology-rid-essentially.trycloudflare.com/vnc.html
 Password  : hieudz
 Host      : trycloudflare
 Protocol  : noVNC over Cloudflared
-Created   : 2026-11-15 05:35:42
+Created   : 2026-11-15 16:53:57
 =======================================================
