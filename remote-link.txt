@@ -1,9 +1,9 @@
 =======================================================
 noVNC INFO - DucThang x TrueHieu Edition
 =======================================================
-URL       : https://medieval-moving-queen-due.trycloudflare.com/vnc.html
+URL       : https://bedroom-guidance-supply-continue.trycloudflare.com/vnc.html
 Password  : hieudz
 Host      : trycloudflare
 Protocol  : noVNC over Cloudflared
-Created   : 2026-11-21 17:13:38
+Created   : 2026-11-22 00:12:02
 =======================================================
