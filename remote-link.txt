@@ -1,9 +1,9 @@
 =======================================================
 noVNC INFO - DucThang x TrueHieu Edition
 =======================================================
-URL       : https://medium-doom-describes-hats.trycloudflare.com/vnc.html
+URL       : https://broke-knowledge-deck-trusts.trycloudflare.com/vnc.html
 Password  : hieudz
 Host      : trycloudflare
 Protocol  : noVNC over Cloudflared
-Created   : 2026-11-22 13:10:17
+Created   : 2026-11-22 20:59:23
 =======================================================
