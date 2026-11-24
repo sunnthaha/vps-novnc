@@ -1,9 +1,9 @@
 =======================================================
 noVNC INFO - DucThang x TrueHieu Edition
 =======================================================
-URL       : https://sperm-probably-elephant-shortcuts.trycloudflare.com/vnc.html
+URL       : https://replacement-organizing-husband-fare.trycloudflare.com/vnc.html
 Password  : hieudz
 Host      : trycloudflare
 Protocol  : noVNC over Cloudflared
-Created   : 2026-11-24 09:04:24
+Created   : 2026-11-24 20:33:54
 =======================================================
