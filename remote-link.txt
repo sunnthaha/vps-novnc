@@ -1,9 +1,9 @@
 =======================================================
 noVNC INFO - DucThang x TrueHieu Edition
 =======================================================
-URL       : https://terminal-batman-identifies-corp.trycloudflare.com/vnc.html
+URL       : https://capture-forecast-instructor-crucial.trycloudflare.com/vnc.html
 Password  : hieudz
 Host      : trycloudflare
 Protocol  : noVNC over Cloudflared
-Created   : 2026-11-25 07:43:03
+Created   : 2026-11-25 19:51:17
 =======================================================
