@@ -1,9 +1,9 @@
 =======================================================
 noVNC INFO - DucThang x TrueHieu Edition
 =======================================================
-URL       : https://capture-forecast-instructor-crucial.trycloudflare.com/vnc.html
+URL       : https://rays-mode-disable-induction.trycloudflare.com/vnc.html
 Password  : hieudz
 Host      : trycloudflare
 Protocol  : noVNC over Cloudflared
-Created   : 2026-11-25 19:51:17
+Created   : 2026-11-26 02:45:49
 =======================================================
