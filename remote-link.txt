@@ -1,9 +1,9 @@
 =======================================================
 noVNC INFO - DucThang x TrueHieu Edition
 =======================================================
-URL       : https://handle-removable-certain-kent.trycloudflare.com/vnc.html
+URL       : https://proposition-currency-harvard-branches.trycloudflare.com/vnc.html
 Password  : hieudz
 Host      : trycloudflare
 Protocol  : noVNC over Cloudflared
-Created   : 2026-11-27 07:30:02
+Created   : 2026-11-27 19:25:23
 =======================================================
