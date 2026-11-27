@@ -1,9 +1,9 @@
 =======================================================
 noVNC INFO - DucThang x TrueHieu Edition
 =======================================================
-URL       : https://flavor-optional-departmental-charles.trycloudflare.com/vnc.html
+URL       : https://handle-removable-certain-kent.trycloudflare.com/vnc.html
 Password  : hieudz
 Host      : trycloudflare
 Protocol  : noVNC over Cloudflared
-Created   : 2026-11-26 23:35:33
+Created   : 2026-11-27 07:30:02
 =======================================================
